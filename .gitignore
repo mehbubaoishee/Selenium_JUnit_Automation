@@ -48,3 +48,8 @@ bin/
 /src/test/resources/*.png
 /src/test/resources/*.docx
 /src/test/resources/*.txt
+
+.idea
+build
+gradle
+logs
