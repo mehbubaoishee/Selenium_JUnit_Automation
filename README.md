@@ -30,7 +30,7 @@ It fills all the required fields (Name, Number, Today's date, Email, Tell us a b
 6. After run, check the console for success message and confirmation URL
 
 ### Important Links
---
+---
 ### Test Result
 <img width="1141" height="633" alt="2" src="https://github.com/user-attachments/assets/e7cc75bd-3f6d-4f20-92fb-324450c55bca" />
 
@@ -66,7 +66,7 @@ It waits for page load, locates the main table, extracts all cell values from ro
 5. Open `src/test/resources/table_data.txt` to see saved data
 
 ### Important Links
---
+---
 ### Test Result
 <img width="1178" height="650" alt="1" src="https://github.com/user-attachments/assets/1fbdb588-ebc4-47db-94f7-4f6d0fab73c0" />
 
