@@ -47,10 +47,10 @@ public class WebformTest {
         // Fill name
         driver.findElement(By.id("edit-name")).sendKeys(faker.name().fullName());
 
-        // Fill number (phone)
+        // Fill number
         driver.findElement(By.id("edit-number")).sendKeys("01994050014");
 
-        // Fill date (mm/dd/yyyy format)
+        // Fill date
         driver.findElement(By.id("edit-date")).sendKeys("12122000");
 
         // Fill email
@@ -65,17 +65,17 @@ public class WebformTest {
         driver.findElement(By.id("edit-tell-us-a-bit-about-yourself-"))
                 .sendKeys("Automated test by Mehbuba - learning Selenium & JUnit");
 
-        // Scroll more for upload/checkbox
+        // Scroll more for checkbox
         js.executeScript("window.scrollTo(0, 1400);");
         Thread.sleep(1000);
 
-        // Upload file (place images.jpg in src/test/resources/)
+        // Upload file
         String filePath = System.getProperty("user.dir") + "/src/test/resources/images.jpg";
         System.out.println("Uploading file from: " + filePath);
         driver.findElement(By.id("edit-uploadocument-upload")).sendKeys(filePath);
         Thread.sleep(3000);
 
-        // Check consent checkbox
+        // Check checkbox
         WebElement consentBox = driver.findElement(By.id("edit-age"));
         if (!consentBox.isSelected()) {
             js.executeScript("arguments[0].click();", consentBox);
@@ -86,19 +86,18 @@ public class WebformTest {
         js.executeScript("window.scrollTo(0, document.body.scrollHeight);");
         Thread.sleep(1000);
 
-        // Manual CAPTCHA wait
+        // CAPTCHA wait
         System.out.println("Waiting 10 seconds for manual CAPTCHA solve... Please click 'I'm not a robot'");
         Thread.sleep(20000);
 
-        // Submit with JS click (fixes interception)
+        // Submit with click
         WebElement submitBtn = driver.findElement(By.id("edit-submit"));
         js.executeScript("arguments[0].click();", submitBtn);
         System.out.println("Submit button clicked");
 
-        // Wait for confirmation page
+        // Wait
         Thread.sleep(8000);
 
-        // Assert success by URL and page source
         String currentUrl = driver.getCurrentUrl();
         String pageSource = driver.getPageSource();
 
