@@ -1,0 +1,2751 @@
+num[1] 1JANATAMF 2.50 
+0.10    4.17%
+num[2] 1JANATAMF 2.50 
+0.10    4.17%
+num[3] 
+num[4] 1STPRIMFMF 20.00 
+0.30    1.52%
+num[5] 1STPRIMFMF 20.00 
+0.30    1.52%
+num[6] 
+num[7] AAMRANET 16.50 
+-0.30    -1.79%
+num[8] AAMRANET 16.50 
+-0.30    -1.79%
+num[9] 
+num[10] AAMRATECH 11.00 
+-0.40    -3.51%
+num[11] AAMRATECH 11.00 
+-0.40    -3.51%
+num[12] 
+num[13] ABB1STMF 2.60 
+0.00    0.00%
+num[14] ABB1STMF 2.60 
+0.00    0.00%
+num[15] 
+num[16] ABBANK 4.30 
+0.00    0.00%
+num[17] ABBANK 4.30 
+0.00    0.00%
+num[18] 
+num[19] ACFL   17.50    
+0.20    1.16%
+num[20] ACFL   17.50    
+0.20    1.16%
+num[21] 
+num[22] ACI   208.80    
+-3.40    -1.60%
+num[23] ACI   208.80    
+-3.40    -1.60%
+num[24] 
+num[25] ACIFORMULA 135.30 
+-0.20    -0.15%
+num[26] ACIFORMULA 135.30 
+-0.20    -0.15%
+num[27] 
+num[28] ACMELAB 73.30 
+0.60    0.83%
+num[29] ACMELAB 73.30 
+0.60    0.83%
+num[30] 
+num[31] ACMEPL 15.50 
+0.10    0.65%
+num[32] ACMEPL 15.50 
+0.10    0.65%
+num[33] 
+num[34] ACTIVEFINE 5.80 
+0.20    3.57%
+num[35] ACTIVEFINE 5.80 
+0.20    3.57%
+num[36] 
+num[37] ADNTEL 56.50 
+0.60    1.07%
+num[38] ADNTEL 56.50 
+0.60    1.07%
+num[39] 
+num[40] ADVENT 13.20 
+0.30    2.33%
+num[41] ADVENT 13.20 
+0.30    2.33%
+num[42] 
+num[43] AFCAGRO 5.10 
+0.10    2.00%
+num[44] AFCAGRO 5.10 
+0.10    2.00%
+num[45] 
+num[46] AFTABAUTO 32.70 
+1.30    4.14%
+num[47] AFTABAUTO 32.70 
+1.30    4.14%
+num[48] 
+num[49] AGNISYSL 20.60 
+0.00    0.00%
+num[50] AGNISYSL 20.60 
+0.00    0.00%
+num[51] 
+num[52] AGRANINS 23.90 
+0.80    3.46%
+num[53] AGRANINS 23.90 
+0.80    3.46%
+num[54] 
+num[55] AIBL1STIMF 3.40 
+0.20    6.25%
+num[56] AIBL1STIMF 3.40 
+0.20    6.25%
+num[57] 
+num[58] AIL   29.30    
+1.10    3.90%
+num[59] AIL   29.30    
+1.10    3.90%
+num[60] 
+num[61] AL-HAJTEX 130.20 
+0.40    0.31%
+num[62] AL-HAJTEX 130.20 
+0.40    0.31%
+num[63] 
+num[64] ALARABANK 13.20 
+0.20    1.54%
+num[65] ALARABANK 13.20 
+0.20    1.54%
+num[66] 
+num[67] ALIF   4.00    
+0.30    8.11%
+num[68] ALIF   4.00    
+0.30    8.11%
+num[69] 
+num[70] ALLTEX 13.70 
+0.00    0.00%
+num[71] ALLTEX 13.70 
+0.00    0.00%
+num[72] 
+num[73] AMANFEED 22.80 
+0.00    0.00%
+num[74] AMANFEED 22.80 
+0.00    0.00%
+num[75] 
+num[76] AMBEEPHA 705.50 
+6.90    0.99%
+num[77] AMBEEPHA 705.50 
+6.90    0.99%
+num[78] 
+num[79] AMCL(PRAN) 211.00 
+-0.70    -0.33%
+num[80] AMCL(PRAN) 211.00 
+-0.70    -0.33%
+num[81] 
+num[82] ANLIMAYARN 18.70 
+0.10    0.54%
+num[83] ANLIMAYARN 18.70 
+0.10    0.54%
+num[84] 
+num[85] ANWARGALV 92.40 
+2.10    2.33%
+num[86] ANWARGALV 92.40 
+2.10    2.33%
+num[87] 
+num[88] AOL   14.40    
+0.00    0.00%
+num[89] AOL   14.40    
+0.00    0.00%
+num[90] 
+num[91] APEXFOODS 243.50 
+-5.20    -2.09%
+num[92] APEXFOODS 243.50 
+-5.20    -2.09%
+num[93] 
+num[94] APEXFOOT 180.30 
+-2.40    -1.31%
+num[95] APEXFOOT 180.30 
+-2.40    -1.31%
+num[96] 
+num[97] APEXSPINN 209.00 
+-2.70    -1.28%
+num[98] APEXSPINN 209.00 
+-2.70    -1.28%
+num[99] 
+num[100] APEXTANRY 72.00 
+0.00    0.00%
+num[101] APEXTANRY 72.00 
+0.00    0.00%
+num[102] 
+num[103] APOLOISPAT 1.60 
+0.10    6.67%
+num[104] APOLOISPAT 1.60 
+0.10    6.67%
+num[105] 
+num[106] ARAMIT 168.50 
+1.10    0.66%
+num[107] ARAMIT 168.50 
+1.10    0.66%
+num[108] 
+num[109] ARAMITCEM 8.70 
+0.00    0.00%
+num[110] ARAMITCEM 8.70 
+0.00    0.00%
+num[111] 
+num[112] ARGONDENIM 18.20 
+0.30    1.68%
+num[113] ARGONDENIM 18.20 
+0.30    1.68%
+num[114] 
+num[115] ASIAINS 30.00 
+1.00    3.45%
+num[116] ASIAINS 30.00 
+1.00    3.45%
+num[117] 
+num[118] ASIAPACINS 31.60 
+0.20    0.64%
+num[119] ASIAPACINS 31.60 
+0.20    0.64%
+num[120] 
+num[121] ASIATICLAB 51.30 
+3.20    6.65%
+num[122] ASIATICLAB 51.30 
+3.20    6.65%
+num[123] 
+num[124] ATLASBANG 54.20 
+2.00    3.83%
+num[125] ATLASBANG 54.20 
+2.00    3.83%
+num[126] 
+num[127] AZIZPIPES 41.30 
+1.10    2.74%
+num[128] AZIZPIPES 41.30 
+1.10    2.74%
+num[129] 
+num[130] BANGAS 119.20 
+-0.50    -0.42%
+num[131] BANGAS 119.20 
+-0.50    -0.42%
+num[132] 
+num[133] BANKASIA 19.50 
+-0.10    -0.51%
+num[134] BANKASIA 19.50 
+-0.10    -0.51%
+num[135] 
+num[136] BARKAPOWER 7.70 
+0.40    5.48%
+num[137] BARKAPOWER 7.70 
+0.40    5.48%
+num[138] 
+num[139] BATASHOE 816.90 
+2.80    0.34%
+num[140] BATASHOE 816.90 
+2.80    0.34%
+num[141] 
+num[142] BATBC   270.80    
+8.10    3.08%
+num[143] BATBC   270.80    
+8.10    3.08%
+num[144] 
+num[145] BAYLEASING 3.00 
+-0.10    -3.23%
+num[146] BAYLEASING 3.00 
+-0.10    -3.23%
+num[147] 
+num[148] BBS   9.00    
+0.30    3.45%
+num[149] BBS   9.00    
+0.30    3.45%
+num[150] 
+num[151] BBSCABLES 14.70 
+0.20    1.38%
+num[152] BBSCABLES 14.70 
+0.20    1.38%
+num[153] 
+num[154] BDAUTOCA 127.00 
+2.30    1.84%
+num[155] BDAUTOCA 127.00 
+2.30    1.84%
+num[156] 
+num[157] BDCOM   25.30    
+0.30    1.20%
+num[158] BDCOM   25.30    
+0.30    1.20%
+num[159] 
+num[160] BDFINANCE 13.20 
+-0.10    -0.75%
+num[161] BDFINANCE 13.20 
+-0.10    -0.75%
+num[162] 
+num[163] BDLAMPS 139.10 
+-6.40    -4.40%
+num[164] BDLAMPS 139.10 
+-6.40    -4.40%
+num[165] 
+num[166] BDTHAI 11.10 
+0.30    2.78%
+num[167] BDTHAI 11.10 
+0.30    2.78%
+num[168] 
+num[169] BDTHAIFOOD 13.80 
+0.30    2.22%
+num[170] BDTHAIFOOD 13.80 
+0.30    2.22%
+num[171] 
+num[172] BDWELDING 18.00 
+-0.50    -2.70%
+num[173] BDWELDING 18.00 
+-0.50    -2.70%
+num[174] 
+num[175] BEACHHATCH 32.40 
+2.40    8.00%
+num[176] BEACHHATCH 32.40 
+2.40    8.00%
+num[177] 
+num[178] BEACONPHAR 105.40 
+2.40    2.33%
+num[179] BEACONPHAR 105.40 
+2.40    2.33%
+num[180] 
+num[181] BENGALWTL 17.20 
+0.10    0.58%
+num[182] BENGALWTL 17.20 
+0.10    0.58%
+num[183] 
+num[184] BERGERPBL 1412.00 
+2.60    0.18%
+num[185] BERGERPBL 1412.00 
+2.60    0.18%
+num[186] 
+num[187] BESTHLDNG 11.80 
+0.50    4.42%
+num[188] BESTHLDNG 11.80 
+0.50    4.42%
+num[189] 
+num[190] BEXGSUKUK 57.50 
+0.00    0.00%
+num[191] BEXGSUKUK 57.50 
+0.00    0.00%
+num[192] 
+num[193] BGIC   34.00    
+1.10    3.34%
+num[194] BGIC   34.00    
+1.10    3.34%
+num[195] 
+num[196] BIFC   1.20    
+0.11    10.09%
+num[197] BIFC   1.20    
+0.11    10.09%
+num[198] 
+num[199] BNICL   53.00    
+-0.30    -0.56%
+num[200] BNICL   53.00    
+-0.30    -0.56%
+num[201] 
+num[202] BPML   24.00    
+-0.30    -1.23%
+num[203] BPML   24.00    
+-0.30    -1.23%
+num[204] 
+num[205] BPPL   14.60    
+0.30    2.10%
+num[206] BPPL   14.60    
+0.30    2.10%
+num[207] 
+num[208] BRACBANK 70.70 
+1.00    1.43%
+num[209] BRACBANK 70.70 
+1.00    1.43%
+num[210] 
+num[211] BSC   111.30    
+0.20    0.18%
+num[212] BSC   111.30    
+0.20    0.18%
+num[213] 
+num[214] BSCPLC 133.30 
+2.00    1.52%
+num[215] BSCPLC 133.30 
+2.00    1.52%
+num[216] 
+num[217] BSRMLTD 84.00 
+1.90    2.31%
+num[218] BSRMLTD 84.00 
+1.90    2.31%
+num[219] 
+num[220] BSRMSTEEL 70.50 
+2.10    3.07%
+num[221] BSRMSTEEL 70.50 
+2.10    3.07%
+num[222] 
+num[223] BXPHARMA 116.00 
+4.80    4.32%
+num[224] BXPHARMA 116.00 
+4.80    4.32%
+num[225] 
+num[226] CAPITECGBF 7.00 
+0.20    2.94%
+num[227] CAPITECGBF 7.00 
+0.20    2.94%
+num[228] 
+num[229] CAPMBDBLMF 9.80 
+0.00    0.00%
+num[230] CAPMBDBLMF 9.80 
+0.00    0.00%
+num[231] 
+num[232] CAPMIBBLMF 8.60 
+0.20    2.38%
+num[233] CAPMIBBLMF 8.60 
+0.20    2.38%
+num[234] 
+num[235] CENTRALINS 43.60 
+-0.20    -0.46%
+num[236] CENTRALINS 43.60 
+-0.20    -0.46%
+num[237] 
+num[238] CENTRALPHL 8.30 
+0.20    2.47%
+num[239] CENTRALPHL 8.30 
+0.20    2.47%
+num[240] 
+num[241] CITYBANK 25.90 
+0.20    0.78%
+num[242] CITYBANK 25.90 
+0.20    0.78%
+num[243] 
+num[244] CITYGENINS 82.40 
+0.00    0.00%
+num[245] CITYGENINS 82.40 
+0.00    0.00%
+num[246] 
+num[247] CLICL   56.40    
+-1.50    -2.59%
+num[248] CLICL   56.40    
+-1.50    -2.59%
+num[249] 
+num[250] CNATEX 2.30 
+0.10    4.55%
+num[251] CNATEX 2.30 
+0.10    4.55%
+num[252] 
+num[253] CONFIDCEM 50.70 
+1.00    2.01%
+num[254] CONFIDCEM 50.70 
+1.00    2.01%
+num[255] 
+num[256] CONTININS 25.50 
+0.00    0.00%
+num[257] CONTININS 25.50 
+0.00    0.00%
+num[258] 
+num[259] COPPERTECH 20.30 
+0.30    1.50%
+num[260] COPPERTECH 20.30 
+0.30    1.50%
+num[261] 
+num[262] CROWNCEMNT 47.10 
+0.30    0.64%
+num[263] CROWNCEMNT 47.10 
+0.30    0.64%
+num[264] 
+num[265] CRYSTALINS 75.00 
+-0.60    -0.79%
+num[266] CRYSTALINS 75.00 
+-0.60    -0.79%
+num[267] 
+num[268] CVOPRL 153.70 
+-1.50    -0.97%
+num[269] CVOPRL 153.70 
+-1.50    -0.97%
+num[270] 
+num[271] DACCADYE 17.00 
+0.00    0.00%
+num[272] DACCADYE 17.00 
+0.00    0.00%
+num[273] 
+num[274] DAFODILCOM 37.20 
+-0.70    -1.85%
+num[275] DAFODILCOM 37.20 
+-0.70    -1.85%
+num[276] 
+num[277] DBH   37.40    
+0.50    1.36%
+num[278] DBH   37.40    
+0.50    1.36%
+num[279] 
+num[280] DBH1STMF 5.80 
+0.00    0.00%
+num[281] DBH1STMF 5.80 
+0.00    0.00%
+num[282] 
+num[283] DELTALIFE 72.30 
+1.10    1.54%
+num[284] DELTALIFE 72.30 
+1.10    1.54%
+num[285] 
+num[286] DELTASPINN 5.10 
+0.40    8.51%
+num[287] DELTASPINN 5.10 
+0.40    8.51%
+num[288] 
+num[289] DESCO   20.40    
+0.40    2.00%
+num[290] DESCO   20.40    
+0.40    2.00%
+num[291] 
+num[292] DESHBANDHU 15.70 
+0.30    1.95%
+num[293] DESHBANDHU 15.70 
+0.30    1.95%
+num[294] 
+num[295] DGIC   21.70    
+0.10    0.46%
+num[296] DGIC   21.70    
+0.10    0.46%
+num[297] 
+num[298] DHAKABANK 12.50 
+0.00    0.00%
+num[299] DHAKABANK 12.50 
+0.00    0.00%
+num[300] 
+num[301] DHAKAINS 38.20 
+0.20    0.53%
+num[302] DHAKAINS 38.20 
+0.20    0.53%
+num[303] 
+num[304] DOMINAGE 28.70 
+0.10    0.35%
+num[305] DOMINAGE 28.70 
+0.10    0.35%
+num[306] 
+num[307] DOREENPWR 27.20 
+0.20    0.74%
+num[308] DOREENPWR 27.20 
+0.20    0.74%
+num[309] 
+num[310] DSHGARME 112.20 
+-2.00    -1.75%
+num[311] DSHGARME 112.20 
+-2.00    -1.75%
+num[312] 
+num[313] DSSL   8.20    
+0.10    1.23%
+num[314] DSSL   8.20    
+0.10    1.23%
+num[315] 
+num[316] DULAMIACOT 130.50 
+2.90    2.27%
+num[317] DULAMIACOT 130.50 
+2.90    2.27%
+num[318] 
+num[319] DUTCHBANGL 40.00 
+-0.10    -0.25%
+num[320] DUTCHBANGL 40.00 
+-0.10    -0.25%
+num[321] 
+num[322] EASTERNINS 54.80 
+-1.80    -3.18%
+num[323] EASTERNINS 54.80 
+-1.80    -3.18%
+num[324] 
+num[325] EASTLAND 19.70 
+0.30    1.55%
+num[326] EASTLAND 19.70 
+0.30    1.55%
+num[327] 
+num[328] EASTRNLUB 1622.50 
+7.80    0.48%
+num[329] EASTRNLUB 1622.50 
+7.80    0.48%
+num[330] 
+num[331] EBL   25.00    
+0.10    0.40%
+num[332] EBL   25.00    
+0.10    0.40%
+num[333] 
+num[334] EBL1STMF 3.20 
+0.20    6.67%
+num[335] EBL1STMF 3.20 
+0.20    6.67%
+num[336] 
+num[337] EBLNRBMF 2.40 
+0.20    9.09%
+num[338] EBLNRBMF 2.40 
+0.20    9.09%
+num[339] 
+num[340] ECABLES 116.10 
+2.00    1.75%
+num[341] ECABLES 116.10 
+2.00    1.75%
+num[342] 
+num[343] EGEN   19.40    
+0.10    0.52%
+num[344] EGEN   19.40    
+0.10    0.52%
+num[345] 
+num[346] EHL   77.90    
+1.60    2.10%
+num[347] EHL   77.90    
+1.60    2.10%
+num[348] 
+num[349] EIL   29.90    
+0.90    3.10%
+num[350] EIL   29.90    
+0.90    3.10%
+num[351] 
+num[352] EMERALDOIL 13.20 
+0.90    7.32%
+num[353] EMERALDOIL 13.20 
+0.90    7.32%
+num[354] 
+num[355] ENVOYTEX 53.30 
+0.20    0.38%
+num[356] ENVOYTEX 53.30 
+0.20    0.38%
+num[357] 
+num[358] EPGL   16.00    
+0.20    1.27%
+num[359] EPGL   16.00    
+0.20    1.27%
+num[360] 
+num[361] ESQUIRENIT 20.10 
+0.20    1.01%
+num[362] ESQUIRENIT 20.10 
+0.20    1.01%
+num[363] 
+num[364] ETL   9.80    
+0.20    2.08%
+num[365] ETL   9.80    
+0.20    2.08%
+num[366] 
+num[367] EXIM1STMF 2.90 
+0.00    0.00%
+num[368] EXIM1STMF 2.90 
+0.00    0.00%
+num[369] 
+num[370] FAMILYTEX 1.20 
+0.10    9.09%
+num[371] FAMILYTEX 1.20 
+0.10    9.09%
+num[372] 
+num[373] FARCHEM 14.30 
+0.20    1.42%
+num[374] FARCHEM 14.30 
+0.20    1.42%
+num[375] 
+num[376] FAREASTFIN 0.61 
+0.06    10.91%
+num[377] FAREASTFIN 0.61 
+0.06    10.91%
+num[378] 
+num[379] FAREASTLIF 19.80 
+0.40    2.06%
+num[380] FAREASTLIF 19.80 
+0.40    2.06%
+num[381] 
+num[382] FASFIN 0.65 
+0.06    10.17%
+num[383] FASFIN 0.65 
+0.06    10.17%
+num[384] 
+num[385] FBFIF   2.50    
+0.10    4.17%
+num[386] FBFIF   2.50    
+0.10    4.17%
+num[387] 
+num[388] FEDERALINS 20.00 
+-0.10    -0.50%
+num[389] FEDERALINS 20.00 
+-0.10    -0.50%
+num[390] 
+num[391] FEKDIL 14.40 
+0.20    1.41%
+num[392] FEKDIL 14.40 
+0.20    1.41%
+num[393] 
+num[394] FINEFOODS 435.00 
+6.20    1.45%
+num[395] FINEFOODS 435.00 
+6.20    1.45%
+num[396] 
+num[397] FIRSTFIN 2.80 
+0.20    7.69%
+num[398] FIRSTFIN 2.80 
+0.20    7.69%
+num[399] 
+num[400] FORTUNE 13.30 
+-0.10    -0.75%
+num[401] FORTUNE 13.30 
+-0.10    -0.75%
+num[402] 
+num[403] FUWANGCER 11.20 
+0.20    1.82%
+num[404] FUWANGCER 11.20 
+0.20    1.82%
+num[405] 
+num[406] FUWANGFOOD 9.30 
+0.20    2.20%
+num[407] FUWANGFOOD 9.30 
+0.20    2.20%
+num[408] 
+num[409] GBBPOWER 6.00 
+0.30    5.26%
+num[410] GBBPOWER 6.00 
+0.30    5.26%
+num[411] 
+num[412] GEMINISEA 116.80 
+0.60    0.52%
+num[413] GEMINISEA 116.80 
+0.60    0.52%
+num[414] 
+num[415] GENEXIL 25.90 
+-0.40    -1.52%
+num[416] GENEXIL 25.90 
+-0.40    -1.52%
+num[417] 
+num[418] GENNEXT 2.40 
+0.00    0.00%
+num[419] GENNEXT 2.40 
+0.00    0.00%
+num[420] 
+num[421] GHAIL   10.60    
+0.20    1.92%
+num[422] GHAIL   10.60    
+0.20    1.92%
+num[423] 
+num[424] GHCL   19.20    
+0.40    2.13%
+num[425] GHCL   19.20    
+0.40    2.13%
+num[426] 
+num[427] GLDNJMF 6.20 
+0.20    3.33%
+num[428] GLDNJMF 6.20 
+0.20    3.33%
+num[429] 
+num[430] GLOBALINS 27.10 
+0.00    0.00%
+num[431] GLOBALINS 27.10 
+0.00    0.00%
+num[432] 
+num[433] GOLDENSON 9.60 
+0.10    1.05%
+num[434] GOLDENSON 9.60 
+0.10    1.05%
+num[435] 
+num[436] GP   261.00    
+1.60    0.62%
+num[437] GP   261.00    
+1.60    0.62%
+num[438] 
+num[439] GPHISPAT 15.90 
+0.00    0.00%
+num[440] GPHISPAT 15.90 
+0.00    0.00%
+num[441] 
+num[442] GQBALLPEN 519.90 
+17.10    3.40%
+num[443] GQBALLPEN 519.90 
+17.10    3.40%
+num[444] 
+num[445] GRAMEENS2 11.20 
+0.20    1.82%
+num[446] GRAMEENS2 11.20 
+0.20    1.82%
+num[447] 
+num[448] GREENDELMF 3.00 
+0.10    3.45%
+num[449] GREENDELMF 3.00 
+0.10    3.45%
+num[450] 
+num[451] GREENDELT 55.80 
+-0.20    -0.36%
+num[452] GREENDELT 55.80 
+-0.20    -0.36%
+num[453] 
+num[454] GSPFINANCE 1.40 
+-0.10    -6.67%
+num[455] GSPFINANCE 1.40 
+-0.10    -6.67%
+num[456] 
+num[457] HAKKANIPUL 70.00 
+-1.00    -1.41%
+num[458] HAKKANIPUL 70.00 
+-1.00    -1.41%
+num[459] 
+num[460] HAMI   113.50    
+1.40    1.25%
+num[461] HAMI   113.50    
+1.40    1.25%
+num[462] 
+num[463] HEIDELBCEM 241.80 
+6.70    2.85%
+num[464] HEIDELBCEM 241.80 
+6.70    2.85%
+num[465] 
+num[466] HFL   5.90    
+0.10    1.72%
+num[467] HFL   5.90    
+0.10    1.72%
+num[468] 
+num[469] HRTEX   16.80    
+0.30    1.82%
+num[470] HRTEX   16.80    
+0.30    1.82%
+num[471] 
+num[472] HWAWELLTEX 42.00 
+0.90    2.19%
+num[473] HWAWELLTEX 42.00 
+0.90    2.19%
+num[474] 
+num[475] IBBLPBOND 700.00 
+-12.50    -1.75%
+num[476] IBBLPBOND 700.00 
+-12.50    -1.75%
+num[477] 
+num[478] IBNSINA 322.70 
+3.90    1.22%
+num[479] IBNSINA 322.70 
+3.90    1.22%
+num[480] 
+num[481] IBP   12.40    
+0.50    4.20%
+num[482] IBP   12.40    
+0.50    4.20%
+num[483] 
+num[484] ICB   36.70    
+1.00    2.80%
+num[485] ICB   36.70    
+1.00    2.80%
+num[486] 
+num[487] ICB3RDNRB 4.20 
+0.00    0.00%
+num[488] ICB3RDNRB 4.20 
+0.00    0.00%
+num[489] 
+num[490] ICBAGRANI1 6.30 
+0.10    1.61%
+num[491] ICBAGRANI1 6.30 
+0.10    1.61%
+num[492] 
+num[493] ICBAMCL2ND 5.30 
+0.20    3.92%
+num[494] ICBAMCL2ND 5.30 
+0.20    3.92%
+num[495] 
+num[496] ICBEPMF1S1 3.50 
+0.10    2.94%
+num[497] ICBEPMF1S1 3.50 
+0.10    2.94%
+num[498] 
+num[499] ICBIBANK 2.20 
+0.00    0.00%
+num[500] ICBIBANK 2.20 
+0.00    0.00%
+num[501] 
+num[502] ICBSONALI1 4.30 
+0.10    2.38%
+num[503] ICBSONALI1 4.30 
+0.10    2.38%
+num[504] 
+num[505] ICICL   24.00    
+-0.40    -1.64%
+num[506] ICICL   24.00    
+-0.40    -1.64%
+num[507] 
+num[508] IDLC   39.90    
+0.70    1.79%
+num[509] IDLC   39.90    
+0.70    1.79%
+num[510] 
+num[511] IFADAUTOS 20.50 
+0.50    2.50%
+num[512] IFADAUTOS 20.50 
+0.50    2.50%
+num[513] 
+num[514] IFIC   4.70    
+0.00    0.00%
+num[515] IFIC   4.70    
+0.00    0.00%
+num[516] 
+num[517] IFIC1STMF 2.50 
+0.10    4.17%
+num[518] IFIC1STMF 2.50 
+0.10    4.17%
+num[519] 
+num[520] IFILISLMF1 3.50 
+0.10    2.94%
+num[521] IFILISLMF1 3.50 
+0.10    2.94%
+num[522] 
+num[523] ILFSL   0.50    
+0.05    11.11%
+num[524] ILFSL   0.50    
+0.05    11.11%
+num[525] 
+num[526] INDEXAGRO 65.00 
+0.20    0.31%
+num[527] INDEXAGRO 65.00 
+0.20    0.31%
+num[528] 
+num[529] INTECH 28.90 
+-0.20    -0.69%
+num[530] INTECH 28.90 
+-0.20    -0.69%
+num[531] 
+num[532] INTRACO 20.20 
+0.90    4.66%
+num[533] INTRACO 20.20 
+0.90    4.66%
+num[534] 
+num[535] IPDC   19.70    
+0.30    1.55%
+num[536] IPDC   19.70    
+0.30    1.55%
+num[537] 
+num[538] ISLAMIBANK 36.90 
+-0.10    -0.27%
+num[539] ISLAMIBANK 36.90 
+-0.10    -0.27%
+num[540] 
+num[541] ISLAMICFIN 10.50 
+0.80    8.25%
+num[542] ISLAMICFIN 10.50 
+0.80    8.25%
+num[543] 
+num[544] ISLAMIINS 39.50 
+0.30    0.77%
+num[545] ISLAMIINS 39.50 
+0.30    0.77%
+num[546] 
+num[547] ISNLTD 75.00 
+0.00    0.00%
+num[548] ISNLTD 75.00 
+0.00    0.00%
+num[549] 
+num[550] ITC   39.70    
+0.70    1.79%
+num[551] ITC   39.70    
+0.70    1.79%
+num[552] 
+num[553] JAMUNABANK 22.50 
+-0.10    -0.44%
+num[554] JAMUNABANK 22.50 
+-0.10    -0.44%
+num[555] 
+num[556] JAMUNAOIL 172.00 
+0.70    0.41%
+num[557] JAMUNAOIL 172.00 
+0.70    0.41%
+num[558] 
+num[559] JANATAINS 25.10 
+0.00    0.00%
+num[560] JANATAINS 25.10 
+0.00    0.00%
+num[561] 
+num[562] JHRML   43.60    
+0.80    1.87%
+num[563] JHRML   43.60    
+0.80    1.87%
+num[564] 
+num[565] JMISMDL 122.50 
+3.60    3.03%
+num[566] JMISMDL 122.50 
+3.60    3.03%
+num[567] 
+num[568] JUTESPINN 199.70 
+-1.70    -0.84%
+num[569] JUTESPINN 199.70 
+-1.70    -0.84%
+num[570] 
+num[571] KARNAPHULI 30.90 
+-0.30    -0.96%
+num[572] KARNAPHULI 30.90 
+-0.30    -0.96%
+num[573] 
+num[574] KAY&QUE 375.00 
+-5.20    -1.37%
+num[575] KAY&QUE 375.00 
+-5.20    -1.37%
+num[576] 
+num[577] KBPPWBIL 48.80 
+4.40    9.91%
+num[578] KBPPWBIL 48.80 
+4.40    9.91%
+num[579] 
+num[580] KDSALTD 41.80 
+0.80    1.95%
+num[581] KDSALTD 41.80 
+0.80    1.95%
+num[582] 
+num[583] KEYACOSMET 4.30 
+0.20    4.88%
+num[584] KEYACOSMET 4.30 
+0.20    4.88%
+num[585] 
+num[586] KOHINOOR 501.20 
+1.50    0.30%
+num[587] KOHINOOR 501.20 
+1.50    0.30%
+num[588] 
+num[589] KPCL   9.90    
+0.30    3.13%
+num[590] KPCL   9.90    
+0.30    3.13%
+num[591] 
+num[592] KPPL   13.80    
+0.50    3.76%
+num[593] KPPL   13.80    
+0.50    3.76%
+num[594] 
+num[595] KTL   9.40    
+0.20    2.17%
+num[596] KTL   9.40    
+0.20    2.17%
+num[597] 
+num[598] LANKABAFIN 12.70 
+0.30    2.42%
+num[599] LANKABAFIN 12.70 
+0.30    2.42%
+num[600] 
+num[601] LEGACYFOOT 55.20 
+0.70    1.28%
+num[602] LEGACYFOOT 55.20 
+0.70    1.28%
+num[603] 
+num[604] LHB   49.70    
+1.70    3.54%
+num[605] LHB   49.70    
+1.70    3.54%
+num[606] 
+num[607] LIBRAINFU 636.00 
+-0.50    -0.08%
+num[608] LIBRAINFU 636.00 
+-0.50    -0.08%
+num[609] 
+num[610] LINDEBD 811.10 
+1.60    0.20%
+num[611] LINDEBD 811.10 
+1.60    0.20%
+num[612] 
+num[613] LOVELLO 68.60 
+-1.50    -2.14%
+num[614] LOVELLO 68.60 
+-1.50    -2.14%
+num[615] 
+num[616] LRBDL   9.60    
+0.30    3.23%
+num[617] LRBDL   9.60    
+0.30    3.23%
+num[618] 
+num[619] LRGLOBMF1 3.00 
+0.20    7.14%
+num[620] LRGLOBMF1 3.00 
+0.20    7.14%
+num[621] 
+num[622] MAGURAPLEX 83.20 
+1.30    1.59%
+num[623] MAGURAPLEX 83.20 
+1.30    1.59%
+num[624] 
+num[625] MAKSONSPIN 4.90 
+0.20    4.26%
+num[626] MAKSONSPIN 4.90 
+0.20    4.26%
+num[627] 
+num[628] MALEKSPIN 29.60 
+0.00    0.00%
+num[629] MALEKSPIN 29.60 
+0.00    0.00%
+num[630] 
+num[631] MARICO 2788.00 
+4.30    0.15%
+num[632] MARICO 2788.00 
+4.30    0.15%
+num[633] 
+num[634] MATINSPINN 47.70 
+0.40    0.85%
+num[635] MATINSPINN 47.70 
+0.40    0.85%
+num[636] 
+num[637] MBL1STMF 3.70 
+0.10    2.78%
+num[638] MBL1STMF 3.70 
+0.10    2.78%
+num[639] 
+num[640] MEGCONMILK 12.80 
+0.70    5.79%
+num[641] MEGCONMILK 12.80 
+0.70    5.79%
+num[642] 
+num[643] MEGHNACEM 29.90 
+2.60    9.52%
+num[644] MEGHNACEM 29.90 
+2.60    9.52%
+num[645] 
+num[646] MEGHNAINS 30.40 
+-0.60    -1.94%
+num[647] MEGHNAINS 30.40 
+-0.60    -1.94%
+num[648] 
+num[649] MEGHNALIFE 53.50 
+0.10    0.19%
+num[650] MEGHNALIFE 53.50 
+0.10    0.19%
+num[651] 
+num[652] MEGHNAPET 18.80 
+0.90    5.03%
+num[653] MEGHNAPET 18.80 
+0.90    5.03%
+num[654] 
+num[655] MERCANBANK 7.90 
+0.10    1.28%
+num[656] MERCANBANK 7.90 
+0.10    1.28%
+num[657] 
+num[658] MERCINS 24.60 
+-0.20    -0.81%
+num[659] MERCINS 24.60 
+-0.20    -0.81%
+num[660] 
+num[661] METROSPIN 7.80 
+0.30    4.00%
+num[662] METROSPIN 7.80 
+0.30    4.00%
+num[663] 
+num[664] MHSML   15.70    
+0.20    1.29%
+num[665] MHSML   15.70    
+0.20    1.29%
+num[666] 
+num[667] MIDASFIN 5.00 
+0.10    2.04%
+num[668] MIDASFIN 5.00 
+0.10    2.04%
+num[669] 
+num[670] MIDLANDBNK 17.40 
+0.20    1.16%
+num[671] MIDLANDBNK 17.40 
+0.20    1.16%
+num[672] 
+num[673] MIRACLEIND 31.50 
+-0.10    -0.32%
+num[674] MIRACLEIND 31.50 
+-0.10    -0.32%
+num[675] 
+num[676] MIRAKHTER 27.50 
+0.40    1.48%
+num[677] MIRAKHTER 27.50 
+0.40    1.48%
+num[678] 
+num[679] MITHUNKNIT 14.20 
+-0.10    -0.70%
+num[680] MITHUNKNIT 14.20 
+-0.10    -0.70%
+num[681] 
+num[682] MJLBD   93.60    
+0.20    0.21%
+num[683] MJLBD   93.60    
+0.20    0.21%
+num[684] 
+num[685] MLDYEING 8.10 
+0.00    0.00%
+num[686] MLDYEING 8.10 
+0.00    0.00%
+num[687] 
+num[688] MONNOAGML 349.90 
+2.60    0.75%
+num[689] MONNOAGML 349.90 
+2.60    0.75%
+num[690] 
+num[691] MONNOCERA 81.50 
+0.50    0.62%
+num[692] MONNOCERA 81.50 
+0.50    0.62%
+num[693] 
+num[694] MONNOFABR 20.30 
+0.10    0.50%
+num[695] MONNOFABR 20.30 
+0.10    0.50%
+num[696] 
+num[697] MONOSPOOL 95.80 
+1.10    1.16%
+num[698] MONOSPOOL 95.80 
+1.10    1.16%
+num[699] 
+num[700] MPETROLEUM 195.90 
+0.40    0.20%
+num[701] MPETROLEUM 195.90 
+0.40    0.20%
+num[702] 
+num[703] MTB   13.50    
+-0.20    -1.46%
+num[704] MTB   13.50    
+-0.20    -1.46%
+num[705] 
+num[706] NAHEEACP 18.10 
+0.00    0.00%
+num[707] NAHEEACP 18.10 
+0.00    0.00%
+num[708] 
+num[709] NATLIFEINS 98.00 
+-0.80    -0.81%
+num[710] NATLIFEINS 98.00 
+-0.80    -0.81%
+num[711] 
+num[712] NAVANACNG 20.70 
+0.20    0.98%
+num[713] NAVANACNG 20.70 
+0.20    0.98%
+num[714] 
+num[715] NAVANAPHAR 53.50 
+0.70    1.33%
+num[716] NAVANAPHAR 53.50 
+0.70    1.33%
+num[717] 
+num[718] NBL   3.30    
+0.10    3.12%
+num[719] NBL   3.30    
+0.10    3.12%
+num[720] 
+num[721] NCCBANK 12.70 
+0.10    0.79%
+num[722] NCCBANK 12.70 
+0.10    0.79%
+num[723] 
+num[724] NCCBLMF1 4.00 
+0.00    0.00%
+num[725] NCCBLMF1 4.00 
+0.00    0.00%
+num[726] 
+num[727] NEWLINE 3.70 
+0.10    2.78%
+num[728] NEWLINE 3.70 
+0.10    2.78%
+num[729] 
+num[730] NFML   14.20    
+0.60    4.41%
+num[731] NFML   14.20    
+0.60    4.41%
+num[732] 
+num[733] NHFIL   24.10    
+0.10    0.42%
+num[734] NHFIL   24.10    
+0.10    0.42%
+num[735] 
+num[736] NITOLINS 28.40 
+0.10    0.35%
+num[737] NITOLINS 28.40 
+0.10    0.35%
+num[738] 
+num[739] NORTHERN 87.10 
+3.30    3.94%
+num[740] NORTHERN 87.10 
+3.30    3.94%
+num[741] 
+num[742] NORTHRNINS 31.00 
+1.10    3.68%
+num[743] NORTHRNINS 31.00 
+1.10    3.68%
+num[744] 
+num[745] NPOLYMER 26.70 
+0.50    1.91%
+num[746] NPOLYMER 26.70 
+0.50    1.91%
+num[747] 
+num[748] NRBBANK 6.80 
+0.00    0.00%
+num[749] NRBBANK 6.80 
+0.00    0.00%
+num[750] 
+num[751] NRBCBANK 5.50 
+0.00    0.00%
+num[752] NRBCBANK 5.50 
+0.00    0.00%
+num[753] 
+num[754] NTC   164.50    
+1.60    0.98%
+num[755] NTC   164.50    
+1.60    0.98%
+num[756] 
+num[757] NTLTUBES 60.00 
+0.30    0.50%
+num[758] NTLTUBES 60.00 
+0.30    0.50%
+num[759] 
+num[760] NURANI 2.10 
+0.10    5.00%
+num[761] NURANI 2.10 
+0.10    5.00%
+num[762] 
+num[763] OAL   5.30    
+0.00    0.00%
+num[764] OAL   5.30    
+0.00    0.00%
+num[765] 
+num[766] OIMEX   13.00    
+0.70    5.69%
+num[767] OIMEX   13.00    
+0.70    5.69%
+num[768] 
+num[769] OLYMPIC 146.40 
+2.40    1.67%
+num[770] OLYMPIC 146.40 
+2.40    1.67%
+num[771] 
+num[772] ONEBANKPLC 7.30 
+0.20    2.82%
+num[773] ONEBANKPLC 7.30 
+0.20    2.82%
+num[774] 
+num[775] ORIONINFU 363.70 
+5.60    1.56%
+num[776] ORIONINFU 363.70 
+5.60    1.56%
+num[777] 
+num[778] ORIONPHARM 27.90 
+0.20    0.72%
+num[779] ORIONPHARM 27.90 
+0.20    0.72%
+num[780] 
+num[781] PADMALIFE 17.10 
+0.10    0.59%
+num[782] PADMALIFE 17.10 
+0.10    0.59%
+num[783] 
+num[784] PADMAOIL 169.00 
+0.10    0.06%
+num[785] PADMAOIL 169.00 
+0.10    0.06%
+num[786] 
+num[787] PARAMOUNT 55.00 
+1.50    2.80%
+num[788] PARAMOUNT 55.00 
+1.50    2.80%
+num[789] 
+num[790] PDL   4.00    
+0.00    0.00%
+num[791] PDL   4.00    
+0.00    0.00%
+num[792] 
+num[793] PENINSULA 20.70 
+0.60    2.99%
+num[794] PENINSULA 20.70 
+0.60    2.99%
+num[795] 
+num[796] PEOPLESINS 37.50 
+-0.40    -1.06%
+num[797] PEOPLESINS 37.50 
+-0.40    -1.06%
+num[798] 
+num[799] PF1STMF 5.20 
+0.30    6.12%
+num[800] PF1STMF 5.20 
+0.30    6.12%
+num[801] 
+num[802] PHARMAID 503.00 
+2.40    0.48%
+num[803] PHARMAID 503.00 
+2.40    0.48%
+num[804] 
+num[805] PHENIXINS 29.30 
+0.50    1.74%
+num[806] PHENIXINS 29.30 
+0.50    1.74%
+num[807] 
+num[808] PHOENIXFIN 2.80 
+0.00    0.00%
+num[809] PHOENIXFIN 2.80 
+0.00    0.00%
+num[810] 
+num[811] PHPMF1 2.40 
+0.20    9.09%
+num[812] PHPMF1 2.40 
+0.20    9.09%
+num[813] 
+num[814] PIONEERINS 51.80 
+-0.40    -0.77%
+num[815] PIONEERINS 51.80 
+-0.40    -0.77%
+num[816] 
+num[817] PLFSL   0.63    
+0.01    1.61%
+num[818] PLFSL   0.63    
+0.01    1.61%
+num[819] 
+num[820] POPULAR1MF 2.40 
+0.10    4.35%
+num[821] POPULAR1MF 2.40 
+0.10    4.35%
+num[822] 
+num[823] POPULARLIF 45.10 
+0.50    1.12%
+num[824] POPULARLIF 45.10 
+0.50    1.12%
+num[825] 
+num[826] POWERGRID 28.00 
+0.00    0.00%
+num[827] POWERGRID 28.00 
+0.00    0.00%
+num[828] 
+num[829] PRAGATIINS 71.70 
+-0.40    -0.55%
+num[830] PRAGATIINS 71.70 
+-0.40    -0.55%
+num[831] 
+num[832] PRAGATILIF 162.30 
+-2.70    -1.64%
+num[833] PRAGATILIF 162.30 
+-2.70    -1.64%
+num[834] 
+num[835] PREMIERBAN 4.20 
+0.20    5.00%
+num[836] PREMIERBAN 4.20 
+0.20    5.00%
+num[837] 
+num[838] PREMIERCEM 38.30 
+0.80    2.13%
+num[839] PREMIERCEM 38.30 
+0.80    2.13%
+num[840] 
+num[841] PREMIERLEA 0.47 
+0.04    9.30%
+num[842] PREMIERLEA 0.47 
+0.04    9.30%
+num[843] 
+num[844] PRIME1ICBA 4.30 
+0.00    0.00%
+num[845] PRIME1ICBA 4.30 
+0.00    0.00%
+num[846] 
+num[847] PRIMEBANK 30.70 
+0.00    0.00%
+num[848] PRIMEBANK 30.70 
+0.00    0.00%
+num[849] 
+num[850] PRIMEFIN 1.00 
+-0.08    -7.41%
+num[851] PRIMEFIN 1.00 
+-0.08    -7.41%
+num[852] 
+num[853] PRIMEINSUR 33.50 
+-0.60    -1.76%
+num[854] PRIMEINSUR 33.50 
+-0.60    -1.76%
+num[855] 
+num[856] PRIMELIFE 36.30 
+0.80    2.25%
+num[857] PRIMELIFE 36.30 
+0.80    2.25%
+num[858] 
+num[859] PRIMETEX 12.70 
+0.50    4.10%
+num[860] PRIMETEX 12.70 
+0.50    4.10%
+num[861] 
+num[862] PROGRESLIF 45.90 
+0.90    2.00%
+num[863] PROGRESLIF 45.90 
+0.90    2.00%
+num[864] 
+num[865] PROVATIINS 30.60 
+0.10    0.33%
+num[866] PROVATIINS 30.60 
+0.10    0.33%
+num[867] 
+num[868] PTL   51.90    
+1.60    3.18%
+num[869] PTL   51.90    
+1.60    3.18%
+num[870] 
+num[871] PUBALIBANK 37.10 
+-0.70    -1.85%
+num[872] PUBALIBANK 37.10 
+-0.70    -1.85%
+num[873] 
+num[874] PURABIGEN 20.60 
+0.30    1.48%
+num[875] PURABIGEN 20.60 
+0.30    1.48%
+num[876] 
+num[877] QUASEMIND 38.60 
+0.80    2.12%
+num[878] QUASEMIND 38.60 
+0.80    2.12%
+num[879] 
+num[880] QUEENSOUTH 11.50 
+0.40    3.60%
+num[881] QUEENSOUTH 11.50 
+0.40    3.60%
+num[882] 
+num[883] RAHIMAFOOD 138.80 
+-2.30    -1.63%
+num[884] RAHIMAFOOD 138.80 
+-2.30    -1.63%
+num[885] 
+num[886] RAHIMTEXT 246.80 
+-1.90    -0.76%
+num[887] RAHIMTEXT 246.80 
+-1.90    -0.76%
+num[888] 
+num[889] RAKCERAMIC 23.30 
+-0.20    -0.85%
+num[890] RAKCERAMIC 23.30 
+-0.20    -0.85%
+num[891] 
+num[892] RANFOUNDRY 147.90 
+0.10    0.07%
+num[893] RANFOUNDRY 147.90 
+0.10    0.07%
+num[894] 
+num[895] RDFOOD 20.40 
+0.50    2.51%
+num[896] RDFOOD 20.40 
+0.50    2.51%
+num[897] 
+num[898] RECKITTBEN 3450.00 
+16.50    0.48%
+num[899] RECKITTBEN 3450.00 
+16.50    0.48%
+num[900] 
+num[901] REGENTTEX 3.90 
+0.10    2.63%
+num[902] REGENTTEX 3.90 
+0.10    2.63%
+num[903] 
+num[904] RELIANCE1 15.40 
+0.60    4.05%
+num[905] RELIANCE1 15.40 
+0.60    4.05%
+num[906] 
+num[907] RELIANCINS 68.60 
+-0.20    -0.29%
+num[908] RELIANCINS 68.60 
+-0.20    -0.29%
+num[909] 
+num[910] RENATA 402.50 
+8.40    2.13%
+num[911] RENATA 402.50 
+8.40    2.13%
+num[912] 
+num[913] RENWICKJA 468.90 
+11.30    2.47%
+num[914] RENWICKJA 468.90 
+11.30    2.47%
+num[915] 
+num[916] REPUBLIC 33.40 
+3.00    9.87%
+num[917] REPUBLIC 33.40 
+3.00    9.87%
+num[918] 
+num[919] RINGSHINE 2.90 
+0.20    7.41%
+num[920] RINGSHINE 2.90 
+0.20    7.41%
+num[921] 
+num[922] ROBI   30.00    
+0.20    0.67%
+num[923] ROBI   30.00    
+0.20    0.67%
+num[924] 
+num[925] RSRMSTEEL 6.80 
+0.10    1.49%
+num[926] RSRMSTEEL 6.80 
+0.10    1.49%
+num[927] 
+num[928] RUNNERAUTO 37.40 
+0.50    1.36%
+num[929] RUNNERAUTO 37.40 
+0.50    1.36%
+num[930] 
+num[931] RUPALIBANK 19.70 
+0.00    0.00%
+num[932] RUPALIBANK 19.70 
+0.00    0.00%
+num[933] 
+num[934] RUPALIINS 23.80 
+1.00    4.39%
+num[935] RUPALIINS 23.80 
+1.00    4.39%
+num[936] 
+num[937] RUPALILIFE 81.80 
+-0.10    -0.12%
+num[938] RUPALILIFE 81.80 
+-0.10    -0.12%
+num[939] 
+num[940] SAFKOSPINN 13.80 
+0.20    1.47%
+num[941] SAFKOSPINN 13.80 
+0.20    1.47%
+num[942] 
+num[943] SAIFPOWER 4.90 
+0.20    4.26%
+num[944] SAIFPOWER 4.90 
+0.20    4.26%
+num[945] 
+num[946] SAIHAMCOT 19.60 
+0.60    3.16%
+num[947] SAIHAMCOT 19.60 
+0.60    3.16%
+num[948] 
+num[949] SAIHAMTEX 21.30 
+0.80    3.90%
+num[950] SAIHAMTEX 21.30 
+0.80    3.90%
+num[951] 
+num[952] SALAMCRST 11.20 
+0.00    0.00%
+num[953] SALAMCRST 11.20 
+0.00    0.00%
+num[954] 
+num[955] SALVO   29.20    
+0.40    1.39%
+num[956] SALVO   29.20    
+0.40    1.39%
+num[957] 
+num[958] SAMATALETH 93.90 
+1.20    1.29%
+num[959] SAMATALETH 93.90 
+1.20    1.29%
+num[960] 
+num[961] SAMORITA 70.30 
+0.40    0.57%
+num[962] SAMORITA 70.30 
+0.40    0.57%
+num[963] 
+num[964] SANDHANINS 20.40 
+0.00    0.00%
+num[965] SANDHANINS 20.40 
+0.00    0.00%
+num[966] 
+num[967] SAPORTL 42.20 
+0.20    0.48%
+num[968] SAPORTL 42.20 
+0.20    0.48%
+num[969] 
+num[970] SBACBANK 6.40 
+0.00    0.00%
+num[971] SBACBANK 6.40 
+0.00    0.00%
+num[972] 
+num[973] SEAPEARL 32.60 
+1.50    4.82%
+num[974] SEAPEARL 32.60 
+1.50    4.82%
+num[975] 
+num[976] SEMLFBSLGF 5.00 
+0.00    0.00%
+num[977] SEMLFBSLGF 5.00 
+0.00    0.00%
+num[978] 
+num[979] SEMLIBBLSF 6.00 
+0.30    5.26%
+num[980] SEMLIBBLSF 6.00 
+0.30    5.26%
+num[981] 
+num[982] SHAHJABANK 17.30 
+0.10    0.58%
+num[983] SHAHJABANK 17.30 
+0.10    0.58%
+num[984] 
+num[985] SHARPIND 13.20 
+0.10    0.76%
+num[986] SHARPIND 13.20 
+0.10    0.76%
+num[987] 
+num[988] SHASHADNIM 16.20 
+0.30    1.89%
+num[989] SHASHADNIM 16.20 
+0.30    1.89%
+num[990] 
+num[991] SHEPHERD 12.60 
+0.20    1.61%
+num[992] SHEPHERD 12.60 
+0.20    1.61%
+num[993] 
+num[994] SHURWID 4.20 
+0.20    5.00%
+num[995] SHURWID 4.20 
+0.20    5.00%
+num[996] 
+num[997] SHYAMPSUG 130.30 
+-4.60    -3.41%
+num[998] SHYAMPSUG 130.30 
+-4.60    -3.41%
+num[999] 
+num[1000] SICL   20.60    
+-0.40    -1.90%
+num[1001] SICL   20.60    
+-0.40    -1.90%
+num[1002] 
+num[1003] SILCOPHL 13.90 
+-0.10    -0.71%
+num[1004] SILCOPHL 13.90 
+-0.10    -0.71%
+num[1005] 
+num[1006] SILVAPHL 10.10 
+0.60    6.32%
+num[1007] SILVAPHL 10.10 
+0.60    6.32%
+num[1008] 
+num[1009] SIMTEX 20.90 
+0.30    1.46%
+num[1010] SIMTEX 20.90 
+0.30    1.46%
+num[1011] 
+num[1012] SINGERBD 85.00 
+0.20    0.24%
+num[1013] SINGERBD 85.00 
+0.20    0.24%
+num[1014] 
+num[1015] SINOBANGLA 46.60 
+0.30    0.65%
+num[1016] SINOBANGLA 46.60 
+0.30    0.65%
+num[1017] 
+num[1018] SIPLC   56.80    
+-0.80    -1.39%
+num[1019] SIPLC   56.80    
+-0.80    -1.39%
+num[1020] 
+num[1021] SKTRIMS 7.60 
+0.40    5.56%
+num[1022] SKTRIMS 7.60 
+0.40    5.56%
+num[1023] 
+num[1024] SONALIANSH 184.80 
+1.60    0.87%
+num[1025] SONALIANSH 184.80 
+1.60    0.87%
+num[1026] 
+num[1027] SONALILIFE 63.30 
+0.60    0.96%
+num[1028] SONALILIFE 63.30 
+0.60    0.96%
+num[1029] 
+num[1030] SONALIPAPR 226.90 
+0.30    0.13%
+num[1031] SONALIPAPR 226.90 
+0.30    0.13%
+num[1032] 
+num[1033] SONARBAINS 27.70 
+0.70    2.59%
+num[1034] SONARBAINS 27.70 
+0.70    2.59%
+num[1035] 
+num[1036] SONARGAON 31.40 
+-0.30    -0.95%
+num[1037] SONARGAON 31.40 
+-0.30    -0.95%
+num[1038] 
+num[1039] SOUTHEASTB 9.50 
+0.00    0.00%
+num[1040] SOUTHEASTB 9.50 
+0.00    0.00%
+num[1041] 
+num[1042] SPCERAMICS 14.80 
+0.30    2.07%
+num[1043] SPCERAMICS 14.80 
+0.30    2.07%
+num[1044] 
+num[1045] SPCL   48.80    
+1.20    2.52%
+num[1046] SPCL   48.80    
+1.20    2.52%
+num[1047] 
+num[1048] SQUARETEXT 49.80 
+0.10    0.20%
+num[1049] SQUARETEXT 49.80 
+0.10    0.20%
+num[1050] 
+num[1051] SQURPHARMA 215.40 
+4.50    2.13%
+num[1052] SQURPHARMA 215.40 
+4.50    2.13%
+num[1053] 
+num[1054] SSSTEEL 3.90 
+0.10    2.63%
+num[1055] SSSTEEL 3.90 
+0.10    2.63%
+num[1056] 
+num[1057] STANCERAM 62.00 
+-0.90    -1.43%
+num[1058] STANCERAM 62.00 
+-0.90    -1.43%
+num[1059] 
+num[1060] STANDARINS 41.20 
+-0.40    -0.96%
+num[1061] STANDARINS 41.20 
+-0.40    -0.96%
+num[1062] 
+num[1063] STANDBANKL 4.90 
+0.00    0.00%
+num[1064] STANDBANKL 4.90 
+0.00    0.00%
+num[1065] 
+num[1066] STYLECRAFT 45.40 
+0.10    0.22%
+num[1067] STYLECRAFT 45.40 
+0.10    0.22%
+num[1068] 
+num[1069] SUMITPOWER 12.40 
+0.20    1.64%
+num[1070] SUMITPOWER 12.40 
+0.20    1.64%
+num[1071] 
+num[1072] SUNLIFEINS 52.80 
+0.30    0.57%
+num[1073] SUNLIFEINS 52.80 
+0.30    0.57%
+num[1074] 
+num[1075] TAKAFULINS 33.20 
+0.80    2.47%
+num[1076] TAKAFULINS 33.20 
+0.80    2.47%
+num[1077] 
+num[1078] TALLUSPIN 8.20 
+0.20    2.50%
+num[1079] TALLUSPIN 8.20 
+0.20    2.50%
+num[1080] 
+num[1081] TAMIJTEX 122.00 
+-1.90    -1.53%
+num[1082] TAMIJTEX 122.00 
+-1.90    -1.53%
+num[1083] 
+num[1084] TB10Y0535 111.85 
+2.32    2.12%
+num[1085] TB10Y0535 111.85 
+2.32    2.12%
+num[1086] 
+num[1087] TB20Y0744 118.20 
+-0.54    -0.45%
+num[1088] TB20Y0744 118.20 
+-0.54    -0.45%
+num[1089] 
+num[1090] TB2Y0426 98.34 
+-1.94    -1.93%
+num[1091] TB2Y0426 98.34 
+-1.94    -1.93%
+num[1092] 
+num[1093] TB2Y0627 100.80 
+-2.06    -2.00%
+num[1094] TB2Y0627 100.80 
+-2.06    -2.00%
+num[1095] 
+num[1096] TB2Y1126 99.96 
+-1.76    -1.73%
+num[1097] TB2Y1126 99.96 
+-1.76    -1.73%
+num[1098] 
+num[1099] TB5Y0529 106.57 
+1.96    1.87%
+num[1100] TB5Y0529 106.57 
+1.96    1.87%
+num[1101] 
+num[1102] TECHNODRUG 30.60 
+0.50    1.66%
+num[1103] TECHNODRUG 30.60 
+0.50    1.66%
+num[1104] 
+num[1105] TILIL   46.70    
+-0.20    -0.43%
+num[1106] TILIL   46.70    
+-0.20    -0.43%
+num[1107] 
+num[1108] TITASGAS 16.00 
+0.30    1.91%
+num[1109] TITASGAS 16.00 
+0.30    1.91%
+num[1110] 
+num[1111] TOSRIFA 16.80 
+0.40    2.44%
+num[1112] TOSRIFA 16.80 
+0.40    2.44%
+num[1113] 
+num[1114] TRUSTB1MF 2.40 
+0.10    4.35%
+num[1115] TRUSTB1MF 2.40 
+0.10    4.35%
+num[1116] 
+num[1117] TRUSTBANK 18.10 
+0.00    0.00%
+num[1118] TRUSTBANK 18.10 
+0.00    0.00%
+num[1119] 
+num[1120] TUNGHAI 1.60 
+0.10    6.67%
+num[1121] TUNGHAI 1.60 
+0.10    6.67%
+num[1122] 
+num[1123] UCB   9.90    
+-0.10    -1.00%
+num[1124] UCB   9.90    
+-0.10    -1.00%
+num[1125] 
+num[1126] UNILEVERCL 2180.00 
+5.00    0.23%
+num[1127] UNILEVERCL 2180.00 
+5.00    0.23%
+num[1128] 
+num[1129] UNIONCAP 3.10 
+0.00    0.00%
+num[1130] UNIONCAP 3.10 
+0.00    0.00%
+num[1131] 
+num[1132] UNIONINS 37.50 
+0.40    1.08%
+num[1133] UNIONINS 37.50 
+0.40    1.08%
+num[1134] 
+num[1135] UNIQUEHRL 38.40 
+0.30    0.79%
+num[1136] UNIQUEHRL 38.40 
+0.30    0.79%
+num[1137] 
+num[1138] UNITEDFIN 12.00 
+0.20    1.69%
+num[1139] UNITEDFIN 12.00 
+0.20    1.69%
+num[1140] 
+num[1141] UNITEDINS 43.40 
+0.30    0.70%
+num[1142] UNITEDINS 43.40 
+0.30    0.70%
+num[1143] 
+num[1144] UPGDCL 120.60 
+1.10    0.92%
+num[1145] UPGDCL 120.60 
+1.10    0.92%
+num[1146] 
+num[1147] USMANIAGL 31.00 
+0.80    2.65%
+num[1148] USMANIAGL 31.00 
+0.80    2.65%
+num[1149] 
+num[1150] UTTARABANK 24.40 
+0.10    0.41%
+num[1151] UTTARABANK 24.40 
+0.10    0.41%
+num[1152] 
+num[1153] UTTARAFIN 9.70 
+0.20    2.11%
+num[1154] UTTARAFIN 9.70 
+0.20    2.11%
+num[1155] 
+num[1156] VAMLRBBF 5.70 
+0.20    3.64%
+num[1157] VAMLRBBF 5.70 
+0.20    3.64%
+num[1158] 
+num[1159] VFSTDL 12.30 
+0.10    0.82%
+num[1160] VFSTDL 12.30 
+0.10    0.82%
+num[1161] 
+num[1162] WALTONHIL 376.00 
+5.10    1.38%
+num[1163] WALTONHIL 376.00 
+5.10    1.38%
+num[1164] 
+num[1165] WATACHEM 137.20 
+1.00    0.73%
+num[1166] WATACHEM 137.20 
+1.00    0.73%
+num[1167] 
+num[1168] WMSHIPYARD 7.70 
+0.10    1.32%
+num[1169] WMSHIPYARD 7.70 
+0.10    1.32%
+num[1170] 
+num[1171] YPL   16.10    
+0.20    1.26%
+num[1172] YPL   16.10    
+0.20    1.26%
+num[1173] 
+num[1174] ZAHEENSPIN 4.00 
+0.00    0.00%
+num[1175] ZAHEENSPIN 4.00 
+0.00    0.00%
+num[1176] 
+num[1177] ZAHINTEX 5.90 
+0.10    1.72%
+num[1178] ZAHINTEX 5.90 
+0.10    1.72%
+num[1179] 
+num[1180] ZEALBANGLA 135.00 
+-5.20    -3.71%
+num[1181] ZEALBANGLA 135.00 
+-5.20    -3.71%
+num[1182] 
+num[1183] 
+num[1184] 
+num[1185] 
+num[1186] 
+num[1187] 
+num[1188] 
+num[1189] 
+num[1190] ACI   208.80    
+-3.40    -1.60%
+num[1191] ACIFORMULA 135.30 
+-0.20    -0.15%
+num[1192] ACMELAB 73.30 
+0.60    0.83%
+num[1193] ACMEPL 15.50 
+0.10    0.65%
+num[1194] ACTIVEFINE 5.80 
+0.20    3.57%
+num[1195] ADNTEL 56.50 
+0.60    1.07%
+num[1196] ADVENT 13.20 
+0.30    2.33%
+num[1197] AFCAGRO 5.10 
+0.10    2.00%
+num[1198] AFTABAUTO 32.70 
+1.30    4.14%
+num[1199] AGNISYSL 20.60 
+0.00    0.00%
+num[1200] AGRANINS 23.90 
+0.80    3.46%
+num[1201] AIBL1STIMF 3.40 
+0.20    6.25%
+num[1202] AIL   29.30    
+1.10    3.90%
+num[1203] AL-HAJTEX 130.20 
+0.40    0.31%
+num[1204] ALARABANK 13.20 
+0.20    1.54%
+num[1205] ALIF   4.00    
+0.30    8.11%
+num[1206] ALLTEX 13.70 
+0.00    0.00%
+num[1207] AMANFEED 22.80 
+0.00    0.00%
+num[1208] AMBEEPHA 705.50 
+6.90    0.99%
+num[1209] AMCL(PRAN) 211.00 
+-0.70    -0.33%
+num[1210] ANLIMAYARN 18.70 
+0.10    0.54%
+num[1211] ANWARGALV 92.40 
+2.10    2.33%
+num[1212] AOL   14.40    
+0.00    0.00%
+num[1213] APEXFOODS 243.50 
+-5.20    -2.09%
+num[1214] APEXFOOT 180.30 
+-2.40    -1.31%
+num[1215] APEXSPINN 209.00 
+-2.70    -1.28%
+num[1216] APEXTANRY 72.00 
+0.00    0.00%
+num[1217] APOLOISPAT 1.60 
+0.10    6.67%
+num[1218] ARAMIT 168.50 
+1.10    0.66%
+num[1219] ARAMITCEM 8.70 
+0.00    0.00%
+num[1220] ARGONDENIM 18.20 
+0.30    1.68%
+num[1221] ASIAINS 30.00 
+1.00    3.45%
+num[1222] ASIAPACINS 31.60 
+0.20    0.64%
+num[1223] ASIATICLAB 51.30 
+3.20    6.65%
+num[1224] ATLASBANG 54.20 
+2.00    3.83%
+num[1225] AZIZPIPES 41.30 
+1.10    2.74%
+num[1226] BANGAS 119.20 
+-0.50    -0.42%
+num[1227] BANKASIA 19.50 
+-0.10    -0.51%
+num[1228] BARKAPOWER 7.70 
+0.40    5.48%
+num[1229] BATASHOE 816.90 
+2.80    0.34%
+num[1230] BATBC   270.80    
+8.10    3.08%
+num[1231] BAYLEASING 3.00 
+-0.10    -3.23%
+num[1232] BBS   9.00    
+0.30    3.45%
+num[1233] BBSCABLES 14.70 
+0.20    1.38%
+num[1234] BDAUTOCA 127.00 
+2.30    1.84%
+num[1235] BDCOM   25.30    
+0.30    1.20%
+num[1236] BDFINANCE 13.20 
+-0.10    -0.75%
+num[1237] BDLAMPS 139.10 
+-6.40    -4.40%
+num[1238] BDTHAI 11.10 
+0.30    2.78%
+num[1239] BDTHAIFOOD 13.80 
+0.30    2.22%
+num[1240] BDWELDING 18.00 
+-0.50    -2.70%
+num[1241] BEACHHATCH 32.40 
+2.40    8.00%
+num[1242] BEACONPHAR 105.40 
+2.40    2.33%
+num[1243] BENGALWTL 17.20 
+0.10    0.58%
+num[1244] BERGERPBL 1412.00 
+2.60    0.18%
+num[1245] BESTHLDNG 11.80 
+0.50    4.42%
+num[1246] BEXGSUKUK 57.50 
+0.00    0.00%
+num[1247] BGIC   34.00    
+1.10    3.34%
+num[1248] BIFC   1.20    
+0.11    10.09%
+num[1249] BNICL   53.00    
+-0.30    -0.56%
+num[1250] BPML   24.00    
+-0.30    -1.23%
+num[1251] BPPL   14.60    
+0.30    2.10%
+num[1252] BRACBANK 70.70 
+1.00    1.43%
+num[1253] BSC   111.30    
+0.20    0.18%
+num[1254] BSCPLC 133.30 
+2.00    1.52%
+num[1255] BSRMLTD 84.00 
+1.90    2.31%
+num[1256] BSRMSTEEL 70.50 
+2.10    3.07%
+num[1257] BXPHARMA 116.00 
+4.80    4.32%
+num[1258] CAPITECGBF 7.00 
+0.20    2.94%
+num[1259] CAPMBDBLMF 9.80 
+0.00    0.00%
+num[1260] CAPMIBBLMF 8.60 
+0.20    2.38%
+num[1261] CENTRALINS 43.60 
+-0.20    -0.46%
+num[1262] CENTRALPHL 8.30 
+0.20    2.47%
+num[1263] CITYBANK 25.90 
+0.20    0.78%
+num[1264] CITYGENINS 82.40 
+0.00    0.00%
+num[1265] CLICL   56.40    
+-1.50    -2.59%
+num[1266] CNATEX 2.30 
+0.10    4.55%
+num[1267] CONFIDCEM 50.70 
+1.00    2.01%
+num[1268] CONTININS 25.50 
+0.00    0.00%
+num[1269] COPPERTECH 20.30 
+0.30    1.50%
+num[1270] CROWNCEMNT 47.10 
+0.30    0.64%
+num[1271] CRYSTALINS 75.00 
+-0.60    -0.79%
+num[1272] CVOPRL 153.70 
+-1.50    -0.97%
+num[1273] DACCADYE 17.00 
+0.00    0.00%
+num[1274] DAFODILCOM 37.20 
+-0.70    -1.85%
+num[1275] DBH   37.40    
+0.50    1.36%
+num[1276] DBH1STMF 5.80 
+0.00    0.00%
+num[1277] DELTALIFE 72.30 
+1.10    1.54%
+num[1278] DELTASPINN 5.10 
+0.40    8.51%
+num[1279] DESCO   20.40    
+0.40    2.00%
+num[1280] DESHBANDHU 15.70 
+0.30    1.95%
+num[1281] DGIC   21.70    
+0.10    0.46%
+num[1282] DHAKABANK 12.50 
+0.00    0.00%
+num[1283] DHAKAINS 38.20 
+0.20    0.53%
+num[1284] DOMINAGE 28.70 
+0.10    0.35%
+num[1285] DOREENPWR 27.20 
+0.20    0.74%
+num[1286] DSHGARME 112.20 
+-2.00    -1.75%
+num[1287] DSSL   8.20    
+0.10    1.23%
+num[1288] DULAMIACOT 130.50 
+2.90    2.27%
+num[1289] DUTCHBANGL 40.00 
+-0.10    -0.25%
+num[1290] EASTERNINS 54.80 
+-1.80    -3.18%
+num[1291] EASTLAND 19.70 
+0.30    1.55%
+num[1292] EASTRNLUB 1622.50 
+7.80    0.48%
+num[1293] EBL   25.00    
+0.10    0.40%
+num[1294] EBL1STMF 3.20 
+0.20    6.67%
+num[1295] EBLNRBMF 2.40 
+0.20    9.09%
+num[1296] ECABLES 116.10 
+2.00    1.75%
+num[1297] EGEN   19.40    
+0.10    0.52%
+num[1298] EHL   77.90    
+1.60    2.10%
+num[1299] EIL   29.90    
+0.90    3.10%
+num[1300] EMERALDOIL 13.20 
+0.90    7.32%
+num[1301] ENVOYTEX 53.30 
+0.20    0.38%
+num[1302] EPGL   16.00    
+0.20    1.27%
+num[1303] ESQUIRENIT 20.10 
+0.20    1.01%
+num[1304] ETL   9.80    
+0.20    2.08%
+num[1305] EXIM1STMF 2.90 
+0.00    0.00%
+num[1306] FAMILYTEX 1.20 
+0.10    9.09%
+num[1307] FARCHEM 14.30 
+0.20    1.42%
+num[1308] FAREASTFIN 0.61 
+0.06    10.91%
+num[1309] FAREASTLIF 19.80 
+0.40    2.06%
+num[1310] FASFIN 0.65 
+0.06    10.17%
+num[1311] FBFIF   2.50    
+0.10    4.17%
+num[1312] FEDERALINS 20.00 
+-0.10    -0.50%
+num[1313] FEKDIL 14.40 
+0.20    1.41%
+num[1314] FINEFOODS 435.00 
+6.20    1.45%
+num[1315] FIRSTFIN 2.80 
+0.20    7.69%
+num[1316] FORTUNE 13.30 
+-0.10    -0.75%
+num[1317] FUWANGCER 11.20 
+0.20    1.82%
+num[1318] FUWANGFOOD 9.30 
+0.20    2.20%
+num[1319] GBBPOWER 6.00 
+0.30    5.26%
+num[1320] GEMINISEA 116.80 
+0.60    0.52%
+num[1321] GENEXIL 25.90 
+-0.40    -1.52%
+num[1322] GENNEXT 2.40 
+0.00    0.00%
+num[1323] GHAIL   10.60    
+0.20    1.92%
+num[1324] GHCL   19.20    
+0.40    2.13%
+num[1325] GLDNJMF 6.20 
+0.20    3.33%
+num[1326] GLOBALINS 27.10 
+0.00    0.00%
+num[1327] GOLDENSON 9.60 
+0.10    1.05%
+num[1328] GP   261.00    
+1.60    0.62%
+num[1329] GPHISPAT 15.90 
+0.00    0.00%
+num[1330] GQBALLPEN 519.90 
+17.10    3.40%
+num[1331] GRAMEENS2 11.20 
+0.20    1.82%
+num[1332] GREENDELMF 3.00 
+0.10    3.45%
+num[1333] GREENDELT 55.80 
+-0.20    -0.36%
+num[1334] GSPFINANCE 1.40 
+-0.10    -6.67%
+num[1335] HAKKANIPUL 70.00 
+-1.00    -1.41%
+num[1336] HAMI   113.50    
+1.40    1.25%
+num[1337] HEIDELBCEM 241.80 
+6.70    2.85%
+num[1338] HFL   5.90    
+0.10    1.72%
+num[1339] HRTEX   16.80    
+0.30    1.82%
+num[1340] HWAWELLTEX 42.00 
+0.90    2.19%
+num[1341] IBBLPBOND 700.00 
+-12.50    -1.75%
+num[1342] IBNSINA 322.70 
+3.90    1.22%
+num[1343] IBP   12.40    
+0.50    4.20%
+num[1344] ICB   36.70    
+1.00    2.80%
+num[1345] ICB3RDNRB 4.20 
+0.00    0.00%
+num[1346] ICBAGRANI1 6.30 
+0.10    1.61%
+num[1347] ICBAMCL2ND 5.30 
+0.20    3.92%
+num[1348] ICBEPMF1S1 3.50 
+0.10    2.94%
+num[1349] ICBIBANK 2.20 
+0.00    0.00%
+num[1350] ICBSONALI1 4.30 
+0.10    2.38%
+num[1351] ICICL   24.00    
+-0.40    -1.64%
+num[1352] IDLC   39.90    
+0.70    1.79%
+num[1353] IFADAUTOS 20.50 
+0.50    2.50%
+num[1354] IFIC   4.70    
+0.00    0.00%
+num[1355] IFIC1STMF 2.50 
+0.10    4.17%
+num[1356] IFILISLMF1 3.50 
+0.10    2.94%
+num[1357] ILFSL   0.50    
+0.05    11.11%
+num[1358] INDEXAGRO 65.00 
+0.20    0.31%
+num[1359] INTECH 28.90 
+-0.20    -0.69%
+num[1360] INTRACO 20.20 
+0.90    4.66%
+num[1361] IPDC   19.70    
+0.30    1.55%
+num[1362] ISLAMIBANK 36.90 
+-0.10    -0.27%
+num[1363] ISLAMICFIN 10.50 
+0.80    8.25%
+num[1364] ISLAMIINS 39.50 
+0.30    0.77%
+num[1365] ISNLTD 75.00 
+0.00    0.00%
+num[1366] ITC   39.70    
+0.70    1.79%
+num[1367] JAMUNABANK 22.50 
+-0.10    -0.44%
+num[1368] JAMUNAOIL 172.00 
+0.70    0.41%
+num[1369] JANATAINS 25.10 
+0.00    0.00%
+num[1370] JHRML   43.60    
+0.80    1.87%
+num[1371] JMISMDL 122.50 
+3.60    3.03%
+num[1372] JUTESPINN 199.70 
+-1.70    -0.84%
+num[1373] KARNAPHULI 30.90 
+-0.30    -0.96%
+num[1374] KAY&QUE 375.00 
+-5.20    -1.37%
+num[1375] KBPPWBIL 48.80 
+4.40    9.91%
+num[1376] KDSALTD 41.80 
+0.80    1.95%
+num[1377] KEYACOSMET 4.30 
+0.20    4.88%
+num[1378] KOHINOOR 501.20 
+1.50    0.30%
+num[1379] KPCL   9.90    
+0.30    3.13%
+num[1380] KPPL   13.80    
+0.50    3.76%
+num[1381] KTL   9.40    
+0.20    2.17%
+num[1382] LANKABAFIN 12.70 
+0.30    2.42%
+num[1383] LEGACYFOOT 55.20 
+0.70    1.28%
+num[1384] LHB   49.70    
+1.70    3.54%
+num[1385] LIBRAINFU 636.00 
+-0.50    -0.08%
+num[1386] LINDEBD 811.10 
+1.60    0.20%
+num[1387] LOVELLO 68.60 
+-1.50    -2.14%
+num[1388] LRBDL   9.60    
+0.30    3.23%
+num[1389] LRGLOBMF1 3.00 
+0.20    7.14%
+num[1390] MAGURAPLEX 83.20 
+1.30    1.59%
+num[1391] MAKSONSPIN 4.90 
+0.20    4.26%
+num[1392] MALEKSPIN 29.60 
+0.00    0.00%
+num[1393] MARICO 2788.00 
+4.30    0.15%
+num[1394] MATINSPINN 47.70 
+0.40    0.85%
+num[1395] MBL1STMF 3.70 
+0.10    2.78%
+num[1396] MEGCONMILK 12.80 
+0.70    5.79%
+num[1397] MEGHNACEM 29.90 
+2.60    9.52%
+num[1398] MEGHNAINS 30.40 
+-0.60    -1.94%
+num[1399] MEGHNALIFE 53.50 
+0.10    0.19%
+num[1400] MEGHNAPET 18.80 
+0.90    5.03%
+num[1401] MERCANBANK 7.90 
+0.10    1.28%
+num[1402] MERCINS 24.60 
+-0.20    -0.81%
+num[1403] METROSPIN 7.80 
+0.30    4.00%
+num[1404] MHSML   15.70    
+0.20    1.29%
+num[1405] MIDASFIN 5.00 
+0.10    2.04%
+num[1406] MIDLANDBNK 17.40 
+0.20    1.16%
+num[1407] MIRACLEIND 31.50 
+-0.10    -0.32%
+num[1408] MIRAKHTER 27.50 
+0.40    1.48%
+num[1409] MITHUNKNIT 14.20 
+-0.10    -0.70%
+num[1410] MJLBD   93.60    
+0.20    0.21%
+num[1411] MLDYEING 8.10 
+0.00    0.00%
+num[1412] MONNOAGML 349.90 
+2.60    0.75%
+num[1413] MONNOCERA 81.50 
+0.50    0.62%
+num[1414] MONNOFABR 20.30 
+0.10    0.50%
+num[1415] MONOSPOOL 95.80 
+1.10    1.16%
+num[1416] MPETROLEUM 195.90 
+0.40    0.20%
+num[1417] MTB   13.50    
+-0.20    -1.46%
+num[1418] NAHEEACP 18.10 
+0.00    0.00%
+num[1419] NATLIFEINS 98.00 
+-0.80    -0.81%
+num[1420] NAVANACNG 20.70 
+0.20    0.98%
+num[1421] NAVANAPHAR 53.50 
+0.70    1.33%
+num[1422] NBL   3.30    
+0.10    3.12%
+num[1423] NCCBANK 12.70 
+0.10    0.79%
+num[1424] NCCBLMF1 4.00 
+0.00    0.00%
+num[1425] NEWLINE 3.70 
+0.10    2.78%
+num[1426] NFML   14.20    
+0.60    4.41%
+num[1427] NHFIL   24.10    
+0.10    0.42%
+num[1428] NITOLINS 28.40 
+0.10    0.35%
+num[1429] NORTHERN 87.10 
+3.30    3.94%
+num[1430] NORTHRNINS 31.00 
+1.10    3.68%
+num[1431] NPOLYMER 26.70 
+0.50    1.91%
+num[1432] NRBBANK 6.80 
+0.00    0.00%
+num[1433] NRBCBANK 5.50 
+0.00    0.00%
+num[1434] NTC   164.50    
+1.60    0.98%
+num[1435] NTLTUBES 60.00 
+0.30    0.50%
+num[1436] NURANI 2.10 
+0.10    5.00%
+num[1437] OAL   5.30    
+0.00    0.00%
+num[1438] OIMEX   13.00    
+0.70    5.69%
+num[1439] OLYMPIC 146.40 
+2.40    1.67%
+num[1440] ONEBANKPLC 7.30 
+0.20    2.82%
+num[1441] ORIONINFU 363.70 
+5.60    1.56%
+num[1442] ORIONPHARM 27.90 
+0.20    0.72%
+num[1443] PADMALIFE 17.10 
+0.10    0.59%
+num[1444] PADMAOIL 169.00 
+0.10    0.06%
+num[1445] PARAMOUNT 55.00 
+1.50    2.80%
+num[1446] PDL   4.00    
+0.00    0.00%
+num[1447] PENINSULA 20.70 
+0.60    2.99%
+num[1448] PEOPLESINS 37.50 
+-0.40    -1.06%
+num[1449] PF1STMF 5.20 
+0.30    6.12%
+num[1450] PHARMAID 503.00 
+2.40    0.48%
+num[1451] PHENIXINS 29.30 
+0.50    1.74%
+num[1452] PHOENIXFIN 2.80 
+0.00    0.00%
+num[1453] PHPMF1 2.40 
+0.20    9.09%
+num[1454] PIONEERINS 51.80 
+-0.40    -0.77%
+num[1455] PLFSL   0.63    
+0.01    1.61%
+num[1456] POPULAR1MF 2.40 
+0.10    4.35%
+num[1457] POPULARLIF 45.10 
+0.50    1.12%
+num[1458] POWERGRID 28.00 
+0.00    0.00%
+num[1459] PRAGATIINS 71.70 
+-0.40    -0.55%
+num[1460] PRAGATILIF 162.30 
+-2.70    -1.64%
+num[1461] PREMIERBAN 4.20 
+0.20    5.00%
+num[1462] PREMIERCEM 38.30 
+0.80    2.13%
+num[1463] PREMIERLEA 0.47 
+0.04    9.30%
+num[1464] PRIME1ICBA 4.30 
+0.00    0.00%
+num[1465] PRIMEBANK 30.70 
+0.00    0.00%
+num[1466] PRIMEFIN 1.00 
+-0.08    -7.41%
+num[1467] PRIMEINSUR 33.50 
+-0.60    -1.76%
+num[1468] PRIMELIFE 36.30 
+0.80    2.25%
+num[1469] PRIMETEX 12.70 
+0.50    4.10%
+num[1470] PROGRESLIF 45.90 
+0.90    2.00%
+num[1471] PROVATIINS 30.60 
+0.10    0.33%
+num[1472] PTL   51.90    
+1.60    3.18%
+num[1473] PUBALIBANK 37.10 
+-0.70    -1.85%
+num[1474] PURABIGEN 20.60 
+0.30    1.48%
+num[1475] QUASEMIND 38.60 
+0.80    2.12%
+num[1476] QUEENSOUTH 11.50 
+0.40    3.60%
+num[1477] RAHIMAFOOD 138.80 
+-2.30    -1.63%
+num[1478] RAHIMTEXT 246.80 
+-1.90    -0.76%
+num[1479] RAKCERAMIC 23.30 
+-0.20    -0.85%
+num[1480] RANFOUNDRY 147.90 
+0.10    0.07%
+num[1481] RDFOOD 20.40 
+0.50    2.51%
+num[1482] RECKITTBEN 3450.00 
+16.50    0.48%
+num[1483] REGENTTEX 3.90 
+0.10    2.63%
+num[1484] RELIANCE1 15.40 
+0.60    4.05%
+num[1485] RELIANCINS 68.60 
+-0.20    -0.29%
+num[1486] RENATA 402.50 
+8.40    2.13%
+num[1487] RENWICKJA 468.90 
+11.30    2.47%
+num[1488] REPUBLIC 33.40 
+3.00    9.87%
+num[1489] RINGSHINE 2.90 
+0.20    7.41%
+num[1490] ROBI   30.00    
+0.20    0.67%
+num[1491] RSRMSTEEL 6.80 
+0.10    1.49%
+num[1492] RUNNERAUTO 37.40 
+0.50    1.36%
+num[1493] RUPALIBANK 19.70 
+0.00    0.00%
+num[1494] RUPALIINS 23.80 
+1.00    4.39%
+num[1495] RUPALILIFE 81.80 
+-0.10    -0.12%
+num[1496] SAFKOSPINN 13.80 
+0.20    1.47%
+num[1497] SAIFPOWER 4.90 
+0.20    4.26%
+num[1498] SAIHAMCOT 19.60 
+0.60    3.16%
+num[1499] SAIHAMTEX 21.30 
+0.80    3.90%
+num[1500] SALAMCRST 11.20 
+0.00    0.00%
+num[1501] SALVO   29.20    
+0.40    1.39%
+num[1502] SAMATALETH 93.90 
+1.20    1.29%
+num[1503] SAMORITA 70.30 
+0.40    0.57%
+num[1504] SANDHANINS 20.40 
+0.00    0.00%
+num[1505] SAPORTL 42.20 
+0.20    0.48%
+num[1506] SBACBANK 6.40 
+0.00    0.00%
+num[1507] SEAPEARL 32.60 
+1.50    4.82%
+num[1508] SEMLFBSLGF 5.00 
+0.00    0.00%
+num[1509] SEMLIBBLSF 6.00 
+0.30    5.26%
+num[1510] SHAHJABANK 17.30 
+0.10    0.58%
+num[1511] SHARPIND 13.20 
+0.10    0.76%
+num[1512] SHASHADNIM 16.20 
+0.30    1.89%
+num[1513] SHEPHERD 12.60 
+0.20    1.61%
+num[1514] SHURWID 4.20 
+0.20    5.00%
+num[1515] SHYAMPSUG 130.30 
+-4.60    -3.41%
+num[1516] SICL   20.60    
+-0.40    -1.90%
+num[1517] SILCOPHL 13.90 
+-0.10    -0.71%
+num[1518] SILVAPHL 10.10 
+0.60    6.32%
+num[1519] SIMTEX 20.90 
+0.30    1.46%
+num[1520] SINGERBD 85.00 
+0.20    0.24%
+num[1521] SINOBANGLA 46.60 
+0.30    0.65%
+num[1522] SIPLC   56.80    
+-0.80    -1.39%
+num[1523] SKTRIMS 7.60 
+0.40    5.56%
+num[1524] SONALIANSH 184.80 
+1.60    0.87%
+num[1525] SONALILIFE 63.30 
+0.60    0.96%
+num[1526] SONALIPAPR 226.90 
+0.30    0.13%
+num[1527] SONARBAINS 27.70 
+0.70    2.59%
+num[1528] SONARGAON 31.40 
+-0.30    -0.95%
+num[1529] SOUTHEASTB 9.50 
+0.00    0.00%
+num[1530] SPCERAMICS 14.80 
+0.30    2.07%
+num[1531] SPCL   48.80    
+1.20    2.52%
+num[1532] SQUARETEXT 49.80 
+0.10    0.20%
+num[1533] SQURPHARMA 215.40 
+4.50    2.13%
+num[1534] SSSTEEL 3.90 
+0.10    2.63%
+num[1535] STANCERAM 62.00 
+-0.90    -1.43%
+num[1536] STANDARINS 41.20 
+-0.40    -0.96%
+num[1537] STANDBANKL 4.90 
+0.00    0.00%
+num[1538] STYLECRAFT 45.40 
+0.10    0.22%
+num[1539] SUMITPOWER 12.40 
+0.20    1.64%
+num[1540] SUNLIFEINS 52.80 
+0.30    0.57%
+num[1541] TAKAFULINS 33.20 
+0.80    2.47%
+num[1542] TALLUSPIN 8.20 
+0.20    2.50%
+num[1543] TAMIJTEX 122.00 
+-1.90    -1.53%
+num[1544] TB10Y0535 111.85 
+2.32    2.12%
+num[1545] TB20Y0744 118.20 
+-0.54    -0.45%
+num[1546] TB2Y0426 98.34 
+-1.94    -1.93%
+num[1547] TB2Y0627 100.80 
+-2.06    -2.00%
+num[1548] TB2Y1126 99.96 
+-1.76    -1.73%
+num[1549] TB5Y0529 106.57 
+1.96    1.87%
+num[1550] TECHNODRUG 30.60 
+0.50    1.66%
+num[1551] TILIL   46.70    
+-0.20    -0.43%
+num[1552] TITASGAS 16.00 
+0.30    1.91%
+num[1553] TOSRIFA 16.80 
+0.40    2.44%
+num[1554] TRUSTB1MF 2.40 
+0.10    4.35%
+num[1555] TRUSTBANK 18.10 
+0.00    0.00%
+num[1556] TUNGHAI 1.60 
+0.10    6.67%
+num[1557] UCB   9.90    
+-0.10    -1.00%
+num[1558] UNILEVERCL 2180.00 
+5.00    0.23%
+num[1559] UNIONCAP 3.10 
+0.00    0.00%
+num[1560] UNIONINS 37.50 
+0.40    1.08%
+num[1561] UNIQUEHRL 38.40 
+0.30    0.79%
+num[1562] UNITEDFIN 12.00 
+0.20    1.69%
+num[1563] UNITEDINS 43.40 
+0.30    0.70%
+num[1564] UPGDCL 120.60 
+1.10    0.92%
+num[1565] USMANIAGL 31.00 
+0.80    2.65%
+num[1566] UTTARABANK 24.40 
+0.10    0.41%
+num[1567] UTTARAFIN 9.70 
+0.20    2.11%
+num[1568] VAMLRBBF 5.70 
+0.20    3.64%
+num[1569] VFSTDL 12.30 
+0.10    0.82%
+num[1570] WALTONHIL 376.00 
+5.10    1.38%
+num[1571] WATACHEM 137.20 
+1.00    0.73%
+num[1572] WMSHIPYARD 7.70 
+0.10    1.32%
+num[1573] YPL   16.10    
+0.20    1.26%
+num[1574] ZAHEENSPIN 4.00 
+0.00    0.00%
+num[1575] ZAHINTEX 5.90 
+0.10    1.72%
+num[1576] ZEALBANGLA 135.00 
+-5.20    -3.71%
